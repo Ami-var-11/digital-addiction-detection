@@ -1,0 +1,97 @@
+Date,App,Package,UsageMinutes
+2026-02-24,youtube,com.google.android.youtube,13
+2026-02-25,googlequicksearchbox,com.google.android.googlequicksearchbox,7
+2026-02-25,messenger,org.telegram.messenger,54
+2026-02-25,whatsapp,com.whatsapp,17
+2026-02-25,chatgpt,com.openai.chatgpt,29
+2026-02-25,naviapp,com.naviapp,5
+2026-02-25,android,com.instagram.android,42
+2026-02-25,dialer,com.google.android.dialer,65
+2026-02-25,chrome,com.android.chrome,15
+2026-02-25,shopsy,com.flipkart.shopsy,8
+2026-02-25,Settings,com.android.settings,3
+2026-02-25,Clock,com.android.deskclock,1
+2026-02-25,System launcher,com.miui.home,7
+2026-02-26,googlequicksearchbox,com.google.android.googlequicksearchbox,2
+2026-02-26,messenger,org.telegram.messenger,68
+2026-02-26,whatsapp,com.whatsapp,17
+2026-02-26,chatgpt,com.openai.chatgpt,21
+2026-02-26,android,com.instagram.android,47
+2026-02-25,activities,com.toi.reader.activities,1
+2026-02-26,dialer,com.google.android.dialer,127
+2026-02-26,chrome,com.android.chrome,48
+2026-02-26,music,com.spotify.music,1
+2026-02-26,Clock,com.android.deskclock,1
+2026-02-26,System launcher,com.miui.home,5
+2026-02-27,youtube,com.google.android.youtube,4
+2026-02-27,googlequicksearchbox,com.google.android.googlequicksearchbox,6
+2026-02-27,messenger,org.telegram.messenger,1
+2026-02-27,whatsapp,com.whatsapp,43
+2026-02-27,android,com.instagram.android,93
+2026-02-27,dialer,com.google.android.dialer,48
+2026-02-27,chrome,com.android.chrome,22
+2026-02-27,System launcher,com.miui.home,7
+2026-02-28,googlequicksearchbox,com.google.android.googlequicksearchbox,2
+2026-02-28,messenger,org.telegram.messenger,1
+2026-02-28,whatsapp,com.whatsapp,7
+2026-02-28,chatgpt,com.openai.chatgpt,59
+2026-02-28,naviapp,com.naviapp,7
+2026-02-28,android,com.instagram.android,112
+2026-02-28,dialer,com.google.android.dialer,35
+2026-02-28,chrome,com.android.chrome,16
+2026-02-28,System launcher,com.miui.home,4
+2026-03-01,youtube,com.google.android.youtube,9
+2026-03-01,googlequicksearchbox,com.google.android.googlequicksearchbox,2
+2026-03-01,android,com.whereismytrain.android,3
+2026-03-01,whatsapp,com.whatsapp,29
+2026-03-01,naviapp,com.naviapp,1
+2026-03-01,android,com.instagram.android,69
+2026-03-01,dialer,com.google.android.dialer,110
+2026-03-01,chrome,com.android.chrome,9
+2026-03-01,shopsy,com.flipkart.shopsy,28
+2026-03-01,System launcher,com.miui.home,5
+2026-03-02,youtube,com.google.android.youtube,16
+2026-03-02,googlequicksearchbox,com.google.android.googlequicksearchbox,8
+2026-03-02,messenger,org.telegram.messenger,5
+2026-03-02,whatsapp,com.whatsapp,31
+2026-03-02,messaging,com.google.android.apps.messaging,1
+2026-03-02,chatgpt,com.openai.chatgpt,34
+2026-03-02,naviapp,com.naviapp,5
+2026-03-02,android,com.instagram.android,77
+2026-03-02,dialer,com.google.android.dialer,103
+2026-03-02,chrome,com.android.chrome,29
+2026-03-02,shopsy,com.flipkart.shopsy,12
+2026-03-02,music,com.spotify.music,1
+2026-03-02,System launcher,com.miui.home,8
+2026-03-02,youtube,com.google.android.youtube,6
+2026-03-03,googlequicksearchbox,com.google.android.googlequicksearchbox,3
+2026-03-03,android,com.whereismytrain.android,16
+2026-03-03,messenger,org.telegram.messenger,10
+2026-03-03,videoplayer,com.playit.videoplayer,107
+2026-03-03,whatsapp,com.whatsapp,2
+2026-03-02,Gallery,com.miui.gallery,1
+2026-03-03,naviapp,com.naviapp,3
+2026-03-03,Google Play Store,com.android.vending,4
+2026-03-03,android,com.instagram.android,24
+2026-03-03,Music,com.miui.player,1
+2026-03-03,dialer,com.google.android.dialer,24
+2026-03-03,maps,com.google.android.apps.maps,15
+2026-03-03,chrome,com.android.chrome,11
+2026-03-03,zophop,app.zophop,6
+2026-03-03,Settings,com.android.settings,1
+2026-03-03,Clock,com.android.deskclock,1
+2026-03-03,System launcher,com.miui.home,8
+2026-03-04,youtube,com.google.android.youtube,1
+2026-03-04,googlequicksearchbox,com.google.android.googlequicksearchbox,17
+2026-03-04,lite,cn.wps.xiaomi.abroad.lite,1
+2026-03-03,android,com.whereismytrain.android,2
+2026-03-04,whatsapp,com.whatsapp,14
+2026-03-04,DAS,com.kalaiyarasi.digitaladdictiontracker,3
+2026-03-04,android,com.instagram.android,60
+2026-03-04,ajio,com.ril.ajio,33
+2026-03-04,dialer,com.google.android.dialer,83
+2026-03-04,maps,com.google.android.apps.maps,2
+2026-03-04,chrome,com.android.chrome,35
+2026-03-04,File Manager,com.mi.android.globalFileexplorer,1
+2026-03-04,android,com.linkedin.android,3
+2026-03-04,Settings,com.and

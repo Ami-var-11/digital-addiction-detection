@@ -1,0 +1,11 @@
+KAGGLE DATASET COLUMNS:
+==================================================
+1. daily_screen_time_min
+2. num_app_switches
+3. sleep_hours
+4. notification_count
+5. social_media_time_min
+6. focus_score
+7. mood_score
+8. anxiety_level
+9. digital_wellbeing_score
